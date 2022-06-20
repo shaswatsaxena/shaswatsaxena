@@ -7,9 +7,6 @@
 - 👯 I’m looking to collaborate on projects related to AI in Retail.
 - 💬 Talk to me about JavaScript, Cloud Computing and AI. 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaswatsaxena&layout=compact)
-
 <h2> Skills </h2>
 <a href= https://github.com/shaswatsaxena?tab=repositories&q=&type=&language=javascript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href= https://github.com/shaswatsaxena?tab=repositories&q=&type=&language=typescript&sort= > <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg'> </a>
