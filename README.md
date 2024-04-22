@@ -2,7 +2,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 Currently working on a Shopify App.
+- 🔭 Currently working on [PersonalizerAI](https://personalizerai.com).
 - 🌱 Learning AI and Machine Learning at the moment.
 - 👯 I’m looking to collaborate on projects related to AI in Retail.
 - 💬 Talk to me about JavaScript, Cloud Computing and AI. 
